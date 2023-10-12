@@ -1,0 +1,9 @@
+C:\Users\79146\source\repos\WindowProject\WindowProject\x64\Debug\WindowProject.vcxproj.AssemblyReference.cache
+C:\Users\79146\source\repos\WindowProject\WindowProject\x64\Debug\WindowProject.MyForm.resources
+C:\Users\79146\source\repos\WindowProject\WindowProject\x64\Debug\WindowProject.vcxproj.GenerateResource.cache
+C:\Users\79146\Desktop\lab_1_2_3\WindowProject\WindowProject\x64\Debug\WindowProject.vcxproj.AssemblyReference.cache
+C:\Users\79146\Desktop\lab_1_2_3\WindowProject\WindowProject\x64\Debug\WindowProject.MyForm.resources
+C:\Users\79146\Desktop\lab_1_2_3\WindowProject\WindowProject\x64\Debug\WindowProject.vcxproj.GenerateResource.cache
+C:\Users\Radjab\Downloads\WindowProject_2\WindowProject\x64\Debug\WindowProject.vcxproj.AssemblyReference.cache
+C:\Users\Radjab\Downloads\WindowProject_2\WindowProject\x64\Debug\WindowProject.MyForm.resources
+C:\Users\Radjab\Downloads\WindowProject_2\WindowProject\x64\Debug\WindowProject.vcxproj.GenerateResource.cache
